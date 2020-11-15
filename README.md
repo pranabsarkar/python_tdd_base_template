@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple Python Based Template, where we can leverage the benfits of test driven development without any AWS infrastucture dependency and follow the `PEP-8` standard.
+This is a simple Python Based Template, where we can leverage the benfits of test driven development without any infrastucture dependency and follow the `PEP-8` standard.
 
 ## Steps - Involved
 
