@@ -6,11 +6,11 @@ This is a simple Python Based Template, where we can leverage the benfits of tes
 
 ## Steps - Involved
 
-1. User's have to write their code in the `src` directory with their testcases inside the `tests` directory.
+1. We have to write their code in the `src` directory with their testcases inside the `tests` directory.
 
 2. The request/responce for the respective python module should be maintained inside the `tests/fixtures` directory in `.json` format.
 
-3. User's can check their code by executing `python app.py` inside their terminal/command prompt.
+3. We can check their code by executing `python app.py` inside their terminal/command prompt.
 
 ![Execution](images/img_001.png)
 
@@ -18,7 +18,7 @@ If there is any error/warning in their code, we can watch the details inside the
 
 ## Setup Guide
 
-Python Version: `3.7`
+Python Version: `3.7.7`
 
 First of all, clone this using terminal/command prompt after running-
 
