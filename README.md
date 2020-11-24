@@ -10,7 +10,7 @@ This is a simple Python Based Template, where we can leverage the benfits of tes
 
 2. The request/responce for the respective python module should be maintained inside the `tests/fixtures` directory in `.json` format.
 
-3. We can check their code by executing `python app.py` inside their terminal/command prompt.
+3. We can check their code by executing `python test.py` inside their terminal/command prompt.
 
 ![Execution](images/img_001.png)
 
@@ -34,7 +34,7 @@ Please open terminal/command prompt in the current directory and run this comman
 
 Open terminal/command prompt and run this command to start the application-
 
-`python app.py `
+`python test.py `
 
 ## Reference
 
@@ -42,9 +42,7 @@ Open terminal/command prompt and run this command to start the application-
 2. [flake8](https://flake8.pycqa.org/en/latest/)
 3. [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) 
 
-## Author
-
-Name: Pranab Sarkar
+## Author Note
 
 Please feel free to add your input's :)
 
